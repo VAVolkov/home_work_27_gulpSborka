@@ -1,0 +1,25 @@
+@import "fonts";
+
+body {
+    font-family: EduVICWANTBeginner;
+    font-size: 50px;
+
+    span {
+        color: red;
+    }
+
+    // background: url('@img/pic_01.jpg') 0 0 no-repeat;
+}
+
+// @media (max-width: 768px) {
+//     span {
+//         font-size: 20px;
+//     }
+// }
+
+
+// @media (max-width: 768px) {
+//     body {
+//         background-color: green;
+//     }
+// }
